@@ -34,7 +34,7 @@ This project simulates a simple operating system that can read job instructions,
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/os-project-phase1.git
+   git clone https://github.com/OmkarLolage21/OS_Phase1.git
    cd os-project-phase1
    ```
 
