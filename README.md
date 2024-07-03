@@ -35,7 +35,7 @@ This project simulates a simple operating system that can read job instructions,
 1. Clone the repository:
    ```bash
    git clone https://github.com/OmkarLolage21/OS_Phase1.git
-   cd os-project-phase1
+   cd OS_Phase1
    ```
 
 2. Ensure you have a C++ compiler installed. For g++:
